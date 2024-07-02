@@ -128,6 +128,14 @@ The data is obtained from Zomato's API and publicly available datasets. Ensure y
 
 - Bar plot showing the density of the top 10 most offered cuisines in restaurants, specifically across different countries, calculated as a percentage of the total restaurant count per country.
 
+## Top 5 Cuisines Density in Each Country
+
+- The analysis below shows the top 5 cuisines by density in each country:
+
+![Top 5 Cuisines Density in Each Country](plot_top_5_cuisines_country.png)
+
+- This set of pie charts displays the density of the top 5 most offered cuisines in restaurants across different countries. Each chart represents a specific country, illustrating the percentage distribution of these cuisines.
+
 ## Top 5 Foods Density in Different Ratings
 
 ![Top 5 Foods Density in Different Ratings](plot_top_5_foods_ratings.png)
